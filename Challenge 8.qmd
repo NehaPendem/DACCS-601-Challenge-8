@@ -4,5 +4,8 @@ format: html
 editor: visual
 ---
 
-What was the last movie you watched in a theater?
+"What was the last movie you watched in a theater?"
 Harry Potter
+
+“What did you eat for today’s lunch?”
+Chicken Ramen
